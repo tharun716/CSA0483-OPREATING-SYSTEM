@@ -1,4 +1,4 @@
-\# CSA0483-OPREATING-SYSTEM\
+# CSA0483-OPREATING-SYSTEM\
 #1-> SYSTEM CALL INVOKING:-\
 ALGORITHAMIC STEPS:-\
 1)Include the necessary header files, such as stdio.h and unistd.h.\
